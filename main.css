@@ -1,0 +1,21 @@
+.question {
+	position:relative;
+	left:700px;
+}
+
+.choice {
+	
+	margin-bottom:5px;
+}
+
+.submission {
+	margin-left:50px;
+	margin-top:20px;
+}
+
+
+
+.openingPage {
+	margin-left:700px;
+	margin-top:200px;
+}
